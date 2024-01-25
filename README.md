@@ -6,5 +6,7 @@ Este projeto é uma API RESTful desenvolvida em Java usando o framework Spring B
 Tecnologias Utilizadas:
 
 °Java
+
 °Spring Boot
+
 °MySQL
